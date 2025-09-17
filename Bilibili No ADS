@@ -1,14 +1,4 @@
 
-#!name=哔哩哔哩
-#!desc=过滤哔哩哔哩广告
-#!author=RuCu6[https://github.com/RuCu6], kokoryh[https://github.com/kokoryh], Maasea[https://github.com/Maasea], 可莉🅥[https://github.com/luestr/ProxyResource/blob/main/README.md]
-#!icon=https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App-Icon/BilibiliRed.png
-#!openUrl=https://apps.apple.com/app/id736536022
-#!tag=去广告
-#!arguments=动态最常访问:auto,创作中心:0,过滤置顶评论广告:1,空降助手:bilibili.airborne,空降助手弹幕版:#,替换鉴权字段:#,Authorization:identify_v1 xxx
-#!arguments-desc=动态最常访问: [true, false, auto]\n- true: 始终显示\n- false: 始终隐藏\n- auto: 仅当列表中存在直播状态时显示\n\n创作中心: [1, 0]\n- 1: 显示\n- 0: 隐藏\n\n过滤置顶评论广告: [1, 0]\n- 1: 开启\n- 0: 关闭\n\n空降助手: 默认开启，配置为"#"时关闭\n\n空降助手弹幕版: 默认关闭，仅限Ipad开启\n\n替换鉴权字段: 默认关闭，配置为"h"时开启，需填写Authorization
-#!homepage=https://github.com/sooyaaabo/Loon/blob/main/README.md
-#!date=2025-07-12 08:00
 #!name=Bilibili No Ads 2025 - Nightmarket
 #!desc=Chặn quảng cáo Bilibili
 # 👤 Author:RuCu6, kokoryh, Maasea, 可莉🅥
